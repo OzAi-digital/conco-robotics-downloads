@@ -8,3 +8,8 @@ Public downloads linked from the Conco Robotics website.
 
 Specifications are the manufacturer's laboratory figures and can vary by model, configuration and
 site conditions.
+
+## Images
+
+`img/` holds product and deployment photos taken from the manufacturer's 2026 brochure, used on the
+website. They're served via jsDelivr.
